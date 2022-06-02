@@ -3446,7 +3446,7 @@ footer .row {
     color: #FFFFFF;
     background: #2E67F8;
     border-color: #2E67F8;
-    padding: 0 20px;
+    padding: -1px 20px;
 }
 
 .footer-subscribe #mc-form label {
